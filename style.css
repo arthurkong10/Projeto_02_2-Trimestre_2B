@@ -7,6 +7,7 @@
     display: flex;
     justify-content: space-between;
     align-items:center ;
+    background-color: aqua;
 }
 
 .cartao{
@@ -15,4 +16,21 @@
 }
 .cartao-imagem{
     width: 100%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-color: aquamarine;
+}
+main{
+    flex: 1;
+}
+
+.cabecalho-link{
+    color: indigo;
+
+}
+h1{
+    color: indigo;
 }
