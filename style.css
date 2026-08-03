@@ -29,8 +29,14 @@ main{
 
 .cabecalho-link{
     color: goldenrod;
-
+    text-decoration: none;
 }
 h1{
     color: gold;
+}
+
+.footer{
+    background-color: slategrey;
+    padding: 15px 15px;
+    color: goldenrod;
 }
