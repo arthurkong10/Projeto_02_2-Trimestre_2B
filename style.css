@@ -7,7 +7,7 @@
     display: flex;
     justify-content: space-between;
     align-items:center ;
-    background-color: aqua;
+    background-color: gray;
 }
 
 .cartao{
@@ -21,16 +21,16 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background-color: aquamarine;
+    background-color: darkred;
 }
 main{
     flex: 1;
 }
 
 .cabecalho-link{
-    color: indigo;
+    color: goldenrod;
 
 }
 h1{
-    color: indigo;
+    color: goldenrod;
 }
